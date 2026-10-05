@@ -2,5 +2,8 @@
 #define ORDER_H
 
 void init_order(void);
-222111
+void method1();
+void method2();
+void method3();
+void method4();
 #endif
