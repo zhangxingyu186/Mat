@@ -3,5 +3,5 @@
 
 void init_user(void)
 {
-    printf("User module initialized\n");
+    printf("Administrator module initialized\n");
 }
